@@ -49,7 +49,7 @@
   "eslint-plugin-promise": "5.0.0",
   "jest": "27.5.1",
   "npm-run-all": "4.1.5",
-  "rollup": "2.70.1",
+  "rollup": "2.79.2",
   "rollup-plugin-svg": "2.0.0",
   "sass": "1.49.9",
   "ts-jest": "27.1.4",
